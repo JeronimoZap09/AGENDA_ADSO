@@ -1,0 +1,73 @@
+{
+  "contactos": [
+    {
+      "nombre": "Camila Perez",
+      "telefono": "321 698 1777",
+      "correo": "camila@gmail.com",
+      "etiqueta": "Estudio",
+      "id": "lRh126N0nUA",
+      "usuarioId": "u1"
+    },
+    {
+      "nombre": "Juan Osorio",
+      "telefono": "300 666 9845",
+      "correo": "juansito@gmail.com",
+      "etiqueta": "Trabajo",
+      "id": "iGnLFDltjuA",
+      "usuarioId": "u2"
+    },
+    {
+      "nombre": "Stiven Mesa",
+      "telefono": "362 5788841",
+      "correo": "stivensito@gmail.com",
+      "etiqueta": "Familiar",
+      "id": "nHzDJFIOUAc",
+      "usuarioId": "u2"
+    },
+    {
+      "nombre": "Adriana Pérez",
+      "telefono": "311 3555477",
+      "correo": "adrianaperez@gmail.com",
+      "etiqueta": "Familiar",
+      "id": "s1-4eWRyIuE",
+      "usuarioId": "u3"
+    },
+    {
+      "nombre": "Jeronimo Zapata",
+      "telefono": "321 698 1788",
+      "correo": "jerito@sena.com",
+      "etiqueta": "Sena",
+      "usuarioId": "u1",
+      "id": "X0dxFl1tCV0"
+    },
+    {
+      "nombre": "Oscar de Leon",
+      "telefono": "322 458 9655",
+      "correo": "oskarruar@gmail.com",
+      "etiqueta": "Trabajo",
+      "usuarioId": "u3",
+      "id": "yhPf5CtKbkk"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "u1",
+      "usuario": "camila",
+      "password": "sena123",
+      "nombre": "Camila Ríos"
+    },
+    {
+      "id": "u2",
+      "usuario": "juan",
+      "password": "sena123",
+      "nombre": "Juan Osorio"
+    },
+    {
+      "id": "u3",
+      "usuario": "admin",
+      "password": "admin123",
+      "nombre": "Administrador"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
