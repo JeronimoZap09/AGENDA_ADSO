@@ -1,0 +1,49 @@
+{
+  "contactos": [
+    {
+      "nombre": "Camila Perez",
+      "telefono": "321 698 1777",
+      "correo": "camila@gmail.com",
+      "etiqueta": "Estudio",
+      "id": "lRh126N0nUA"
+    },
+    {
+      "nombre": "Stiven Mesa",
+      "telefono": "362 5788841",
+      "correo": "stivensito@gmail.com",
+      "etiqueta": "Familiar",
+      "id": "nHzDJFIOUAc"
+    },
+    {
+      "nombre": "Adriana Pérez",
+      "telefono": "311 3555477",
+      "correo": "adrianaperez@gmail.com",
+      "etiqueta": "Familiar",
+      "id": "s1-4eWRyIuE"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "u-admin-001",
+      "nombre": "Administrador SENA",
+      "correo": "admin@sena.edu.co",
+      "password": "admin123",
+      "rol": "admin"
+    },
+    {
+      "id": "u-usuario-001",
+      "nombre": "Usuario Demo",
+      "correo": "usuario@sena.edu.co",
+      "password": "usuario123",
+      "rol": "usuario"
+    },
+    {
+      "nombre": "jerito",
+      "correo": "jerito@gmail.com",
+      "password": "jerito123",
+      "rol": "usuario",
+      "id": "j1ixPz15RH8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
